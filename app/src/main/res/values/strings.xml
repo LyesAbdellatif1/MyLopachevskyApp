@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Lobachevsky App</string>
+    <string name="lobachevskytext">Welcome to Lobachevsky blog!</string>
+    <string name="backgroundphoto">backroundhat</string>
+    <string name="logoImage">logoImage</string>
+    <string name="your_password"> Enter your password </string>
+    <string name="your_email"> Enter your email </string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="action_search_text">Search</string>
+    <string name="action_settings_text">Account settings</string>
+    <string name="action_logout_text">Logout</string>
+    <string name="create_password">Create new account</string>
+    <string name="Already_have_an_account">Already have an account?</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="create_account">"Create a new account "</string>
+    <string name="lobaimage">lobaimage</string>
+    <string name="hello_egister_togetstarted">Hello! Register to get started.</string>
+    <string name="eys_icon">passwordIcon</string>
+    <string name="passimage1">passimage1</string>
+    <string name="passimage2">passimage2</string>
+    <string name="name">Name</string>
+    <string name="btn_account_settings">Save account settings</string>
+    <string name="account_sett_name">Enter your name...</string>
+    <string name="save_account1_settings" />
+    <string name="save_acc2_sett">SAVE ACCOUNT SETTINGS</string>
+    <string name="save_account_sett">sett</string>
+</resources>
